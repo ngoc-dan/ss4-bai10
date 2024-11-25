@@ -26,6 +26,9 @@ int main(){
 					else{
 						if(a>c&&c>b){
 				    	printf("thu tu tu nho den lon la : %d %d %d" , b ,c ,a);
+					}
+					else{
+						printf("khong hop le");
 					}				    
 					}
 				}
